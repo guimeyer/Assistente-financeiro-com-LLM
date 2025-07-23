@@ -1,0 +1,17 @@
+# Manipulação de dados
+pandas
+
+# Leitura de extratos bancários .ofx
+ofxparse
+
+# Variáveis de ambiente (.env)
+python-dotenv
+
+# LLMs via Langchain + Groq
+langchain
+langchain-groq
+
+# Visualização interativa
+streamlit
+plotly
+
